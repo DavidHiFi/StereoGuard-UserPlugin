@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. The plugin now lives in [DavidHiFi/Discord-Plugins](https://github.com/DavidHiFi/Discord-Plugins/tree/main/stereo-guard) with all of DavidHiFi's Discord plugins.
+
 # StereoGuard
 
 A Vencord / Equicord user plugin that locally mutes anyone whose audio is obnoxiously in
